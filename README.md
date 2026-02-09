@@ -1,41 +1,45 @@
-Spotify UI Clone 🎵
-A sleek, fully responsive Spotify Web Player clone built using pure HTML and CSS. This project focuses on replicating the complex layout of the Spotify desktop application, including the sidebar, main content area, and the music player controller.
+# Spotify Clone
 
-🚀 Key Features
-Responsive Layout: Fully adaptive design using Flexbox and Media Queries (works great on desktop and tablets).
+# Overview
+A simple Spotify Clone with a responsive UI built using HTML, CSS, and JavaScript.
 
-Sticky Navigation: A modern navigation bar that stays at the top while scrolling through playlists.
+# Features
+Navigation: Home & Search sections.
+Library: Playlists & favorite podcasts.
+Music Player: Play, pause, next, previous, volume controls.
+Trending & Recent: Showcases trending and recent songs.
+Responsive Design: Works on all devices.
 
-Custom Music Player: A bottom player bar featuring custom-styled progress sliders and control icons.
+# Technologies
 
-Interactive UI: Hover effects on cards, navigation links, and player controls for a premium feel.
+HTML, CSS.
 
-Sidebar & Library: A dedicated section for navigation and personal library management, mirroring the real Spotify experience.
+FontAwesome, Google Fonts
 
-🛠️ Tech Stack
-HTML5: Semantic structure for the web player.
+# File Structure
 
-CSS3: Advanced styling using Flexbox, Sticky positioning, and Custom Scrollbars.
+/spotify-clone
+│── /assets          # Images & icons
+│── index.html       # Main file
+│── style.css        # Styles
+│── README.md        # Docs
 
-Google Fonts: Using Montserrat and Poppins for that authentic Spotify typography.
+# How to Run
 
-Font Awesome: For high-quality, scalable icons.
+Clone repo:
 
-📸 Preview
-Note: Add your project screenshot here to show off your UI!
+git clone https://github.com/Omkar-1128/spotify-clone.git
 
-📂 Project Highlights in Code
-Flexbox Mastery: The main container uses display: flex to split the sidebar and main content efficiently.
+Open index.html in a browser.
 
-Range Input Styling: Custom ::-webkit-slider-runnable-track and ::-webkit-slider-thumb to match Spotify's signature green playback bar.
+# Future Plans
 
-Z-Index & Positioning: Used sticky positioning for the top nav to ensure it stays visible during the user journey.
+Backend for authentication.
 
-🔧 How to View
-Clone the repository.
+Real music streaming.
 
-Ensure you have the asset folder with the necessary images.
+Better animations.
 
-Open index.html in your browser.
+# Contributing
 
-Developed as part of my Frontend Web Development journey. Feedback is always welcome!
+Fork and submit a pull request.
