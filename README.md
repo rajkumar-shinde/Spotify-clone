@@ -28,7 +28,7 @@ FontAwesome, Google Fonts
 
 Clone repo:
 
-git clone https://github.com/Omkar-1128/spotify-clone.git
+git clone https://github.com/rajkumar-shinde/Spotify-clone.git
 
 Open index.html in a browser.
 
